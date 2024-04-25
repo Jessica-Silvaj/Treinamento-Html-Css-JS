@@ -11,4 +11,4 @@ Lembre-se de aplicar estilos CSS para uma interface amigável e responsiva, e ut
 
 Prototipo.
 
-![Prototipo](../Formulario/image/prototipo.png)
+![Prototipo](../Primeiro-Projeto/image/prototipo.png)
