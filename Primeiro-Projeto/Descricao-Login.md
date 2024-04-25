@@ -1,5 +1,5 @@
-# Descrição do Formulário de Login 🗒️
-Crie um formulário de login com os requisitos mencionados, você pode seguir estas etapas:
+# Descrição da Tela de Login 🗒️
+Crie uma tela de login com os requisitos mencionados, você pode seguir estas etapas:
 
 Campo de Email: Utilize a tag ***input*** com o atributo type="email" para o endereço de email. 
 Campo de Senha: Use a tag ***input*** com type="password" para a senha.
