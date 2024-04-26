@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+*{
+   margin: 0; 
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+    justify-content: center;
+    background-image: url(../image/imagem-fundo.png);
+    background-size: cover;
+    background-position: 50%;
+
+}
+
+h1{
+    font-size: 24px;
+}
+
+form {
+    background-color: white;
+    width: 420px;
+    padding: 50px;
+    flex-direction: column;
+    display: flex;
+    border-radius: 10%;   
+}
+label{
+    margin-top: 10px;
+} 
+
+.titulo{
+  flex-direction: column;
+  display: flex;
+  gap: 5px;
+}
+
+.barra-horizontal{
+    background-color: #f87842;
+    height: 5px;
+    width: 210px;
+}
+
+.campo-input {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
