@@ -31,14 +31,15 @@ form {
     display: flex;
     border-radius: 10%;   
 }
+
 label{
     margin-top: 10px;
 } 
 
 .titulo{
-  flex-direction: column;
-  display: flex;
-  gap: 5px;
+    flex-direction: column;
+    display: flex;
+    gap: 5px;
 }
 
 .barra-horizontal{
@@ -53,3 +54,6 @@ label{
     gap: 5px;
 }
 
+.Esqueceu-senha {
+    text-align: center;
+}
