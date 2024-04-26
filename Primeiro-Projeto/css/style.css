@@ -33,9 +33,24 @@ form {
 }
 
 label{
-    margin-top: 10px;
+    margin-top: 20px;
 } 
 
+button {
+    background: #0066A2;
+    color: white;   
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    align-self: center; 
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+input{
+    background: #f1f1f1;
+
+}
 .titulo{
     flex-direction: column;
     display: flex;
@@ -56,4 +71,11 @@ label{
 
 .Esqueceu-senha {
     text-align: center;
+    display: flex;
+    gap: 5px;    
+}
+
+.lembrar-me {
+    display: flex;   
+    gap: 5px;    
 }
