@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(image/imagem-fundo.png);
+}
+
+main {
+    background-color: white;
+    width: 200px;
+    padding: 30px;
+    margin: auto;
+}
